@@ -720,25 +720,25 @@ function processMessage(command){
       playPlaylist("spotify:user:jjmauss1234:playlist:4FLM4aLb2ttXqlB2Pd1qxS");
       break;
     case "F1":
-
+      // The Maker Musical Theater
       break;
     case "F2":
-
+      // Christmas Bangerz
       break;
     case "F3":
-
+      // Georgetown Bands
       break;
     case "F4":
-
+      // Hana's House
       break;
     case "F5":
-
+      // Clara's All Time Favs 
       break;
     case "F6":
-
+      // Kat's Real Maker Hub Playlist
       break;
     case "F7":
-
+      // Allegra's Maker Hub Jams
       break;
     case "F8":
 
